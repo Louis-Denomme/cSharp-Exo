@@ -1,0 +1,9 @@
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\bin\Debug\netstandard2.0\GameOfLife.Engine.deps.json
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\bin\Debug\netstandard2.0\GameOfLife.Engine.dll
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\bin\Debug\netstandard2.0\GameOfLife.Engine.pdb
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\obj\Debug\netstandard2.0\GameOfLife.Engine.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\obj\Debug\netstandard2.0\GameOfLife.Engine.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\obj\Debug\netstandard2.0\GameOfLife.Engine.AssemblyInfoInputs.cache
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\obj\Debug\netstandard2.0\GameOfLife.Engine.AssemblyInfo.cs
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\obj\Debug\netstandard2.0\GameOfLife.Engine.dll
+C:\Users\Louis\Documents\CESI\C#\GameOfLife\GameOfLife.Engine\obj\Debug\netstandard2.0\GameOfLife.Engine.pdb
